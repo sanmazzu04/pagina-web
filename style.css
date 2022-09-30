@@ -1,0 +1,8 @@
+.bodyindex{
+    background-color: orange;
+}
+.lista{
+    list-style-image:url("pelota de basquet.png");
+    list-style-position: outside;
+    
+}
